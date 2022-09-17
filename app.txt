@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 dddd
 test2
 test3
 test4
-=======
-test
->>>>>>> parent of 4769f81 (수정)
+
